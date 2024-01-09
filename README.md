@@ -14,7 +14,7 @@ Fractional Encodingは、変数の集合をm部分に分割し、各部分集合
 その問題を避けるために、Fractional Encodingは補助変数を使用して分割された集合の間で真の変数の数を増減させます。
 従来の方法との比較で、ターゲット変数の数が増えるときに論理式のサイズを減らすことができることが示されています。
 
-# Fractional EncodingはGoogle Colab上で実行可能です。
+Fractional EncodingはGoogle Colab上で実行可能です。
 
 ![lite_fin](https://github.com/mikiyonekura/Fractional-Encoding/assets/125361876/af124242-1bf7-4c4f-818e-b29164d2c72f)
 
